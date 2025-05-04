@@ -48,7 +48,6 @@ export default function TabsLayout() {
       <Tabs.Screen name="add" options={{ title: 'Add' }} />
       <Tabs.Screen name="task" options={{ title: 'Task' }} />
       <Tabs.Screen name="profile" options={{ title: 'Profile' }} />
-      <Tabs.Screen name="collab" options={{ title: 'Collab' }} />
     </Tabs>
   );
 }
